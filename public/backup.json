@@ -1,0 +1,52 @@
+{
+	"books": [{
+			"title": "To Kill a Mockingbird",
+			"author": "Harper Lee"
+		},
+		{
+			"title": "1984",
+			"author": "George Orwell"
+		},
+		{
+			"title": "The Great Gatsby",
+			"author": "F. Scott Fitzgerald"
+		},
+		{
+			"title": "The Catcher in the Rye",
+			"author": "J. D. Salinger"
+		},
+		{
+			"title": "Of Mice and Men",
+			"author": "John Steinbeck"
+		},
+		{
+			"title": "Great Expectations",
+			"author": "Charles Dickens"
+		}
+	],
+	"movies": [{
+			"title": "The Shawshank Redemption",
+			"director": "Frank Darabont"
+		},
+		{
+			"title": "Psycho",
+			"director": "Alfred Hitchcock"
+		},
+		{
+			"title": "Indiana Jones: Raiders of the Lost Arc",
+			"director": "Steven Spielberg"
+		},
+		{
+			"title": "The Breakfast Club",
+			"director": "John Hughes"
+		},
+		{
+			"title": "Back to the Future",
+			"director": "Robert Zemeckis"
+		},
+		{
+			"title": "The Wizard of Oz",
+			"director": "Victor Fleming"
+		}
+	]
+}
